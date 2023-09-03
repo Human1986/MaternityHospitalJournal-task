@@ -13,6 +13,8 @@ package com.epam.rd.autotasks.collections;
  * and<br>
  * {@code static WeekDay valuesOf(String)}<br>
  */
-public enum WeekDay { // public class WeekDay
-    // place your code here
+public enum WeekDay {
+
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
+
 }
